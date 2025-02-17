@@ -1,0 +1,38 @@
+h1{
+    color: #FFD500; 
+    text-align: center;
+    font-family: Georgia, 'Bookman Old Style', serif;
+    background-color:#324139;
+    text-transform: uppercase;
+    word-spacing:30px;
+    font-size: 3.5em;
+    text-shadow: -2px 2px 5px #91740b;
+    
+}
+
+h3{
+    color: #324139;
+    text-transform: uppercase;
+    font-family: Palatino, Georgia, Garamond, serif;
+    text-shadow: -2px 2px 4px #C7C7BA;
+    
+}
+
+body{
+
+    background-color: #f5f5dc;
+    font-family: Verdana, Tahoma, Sans-serif;
+    color: #1F3623;
+}
+
+
+p{
+    text-align: justify;
+    font-size: 15px;
+    text-indent: 70px;
+    line-height: 21px;
+    word-spacing: 7px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
